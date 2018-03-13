@@ -1,5 +1,5 @@
 # Automated-assembly-system
-Development  of  an  efficient,  robust,  fully  automated  controller  for  theICT  setup  to assemble widgets. <br/>
+Development  of  an  efficient,  robust,  fully  automated  controller  for  the ICT  setup  to assemble widgets. <br/>
 Development of a graphical user interface to allow the following: </br>
 <BLOCKQUOTE>
   a. A real-time  snapshot  indicating  what  sensors  and  actuators  are activate/deactivated at all times. <br/>
